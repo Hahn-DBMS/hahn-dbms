@@ -15,7 +15,9 @@
 - [Project](#project)
   - [Project Proposal](#project-proposal)
   - [ER Diagram Report](#er-diagram-report)
+    - [Entity-Relationship Diagram](#entity-relationship-diagram)
   - [Project Relational Schema Report](#project-relational-schema-report)
+    - [Relational Schema](#relational-schema)
   - [Project Phase 1](#project-phase-1)
   - [Project Final Phase](#project-final-phase)
     - [User Support](#user-support)
@@ -83,6 +85,8 @@
      - Attributes of each Entity
      - Relationships between all Entities
 
+### Entity-Relationship Diagram
+
 <p align="center" width="100%">
     <img src="img/figure-er.png">
 </p>
@@ -98,6 +102,8 @@
      - Database Relations showing Primary Keys
      - Foreign Keys showing the Referenced Relations (Denoted by Arrows)
   3. Any Database Constraints
+
+### Relational Schema
 
 <p align="center" width="100%">
     <img src="img/figure-rs.png">
