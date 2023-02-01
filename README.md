@@ -83,10 +83,14 @@
      - Attributes of each Entity
      - Relationships between all Entities
 
+<p align="center" width="100%">
+    <img src="img/figure-er.png">
+</p>
+
 ## Project Relational Schema Report
 
 - This phase required a revised/corrected version of the ER Diagram from the previous phase.
-- ER Diagram is mapped into Database Relations using Textbook Algorithm to simplify and remedy redundancy of DBMS.
+- ER Diagram is mapped into Database Relations using [Textbook](https://docs.ccsu.edu/curriculumsheets/ChadTest.pdf) Algorithm to simplify and remedy redundancy of DBMS.
 - Shows Primary and Foreign Keys.
 - The completed Project Relational Schema report included:
   1. New Corrected ER Diagram
@@ -94,6 +98,10 @@
      - Database Relations showing Primary Keys
      - Foreign Keys showing the Referenced Relations (Denoted by Arrows)
   3. Any Database Constraints
+
+<p align="center" width="100%">
+    <img src="img/figure-rs.png">
+</p>
 
 ## Project Phase 1
 
