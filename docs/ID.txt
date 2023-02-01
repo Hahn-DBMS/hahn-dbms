@@ -1,0 +1,19 @@
+Project Group #15 
+
+Members:
+Micah Moore micahmoore@vt.edu
+    - In house expert on php.
+    - Effectively takes on role as team leader.
+    - Created structure using templates and brought the rest of us to the same page about how to implement specific pages.
+    - Essentially assisted with every functionality and ensured proper implementation.
+    - Completed most of the reports and statistics.
+Shannon Kate Barrett-Johnson shannonkate@vt.edu
+    - In house plant and Hahn Horticulture expert.
+    - Provided relevant data for plant, vendor, and order data. Implemented the 'Edit' buttons as well as several of 'Add' buttons.
+    - General debugging and testing. Completed some reports and statistics.
+Emaan Rana emrana@vt.edu
+    - General assistance throughout entirety of the project.
+    - Handled some project structure suggestions as well as the CRUD (Create, Read, Update, Delete) pages including 'Add' and 'Edit'.
+    - Worked with 'Delete' implementation when creating 'Saved Plant' functionality.
+    - Made sure the 'Save' and 'Unsave' buttons were working as intended.
+    - Handled some .css related editing.

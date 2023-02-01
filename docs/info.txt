@@ -1,0 +1,19 @@
+Hahn DBMS Information
+
+1. Login Credentials
+	- Staff Member
+		username: staff
+		password: hahn.123
+	- Admin
+		username: admin
+		password: hahn.123
+	- User
+		username: user1
+		password: hahn.123
+* Most passwords should be hahn.123
+
+Note: How to change user profile
+	- Login
+	- In the navigation bar, click Welcome {First Name} and it will take you to the edit profile page.
+
+Site was live at https://hahn.micahmoore.io/www/index.php
