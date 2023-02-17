@@ -62,7 +62,7 @@
 
 # Project
 
-- The project itself was completed incrementally over five project phases that included creating detailed Entity-Relationship Diagrams and Project Relational Scehma.
+- The project itself was completed incrementally over five project phases that included creating detailed Entity-Relationship Diagrams and Project Relational Schema.
 
 ## Project Proposal
 
